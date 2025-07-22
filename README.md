@@ -6,10 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&height=60&lines=🎓+Mahasiswa+Teknik+Informatika;📊+Data+Science+%26+ML+Enthusiast;🚀+Problem+Solver+with+Data;💡+Always+Learning+New+Things!)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=AliSultonsPalilati&label=👀+Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/AliSultonsPalilati?label=👥+Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/AliSultonsPalilati?label=⭐+Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
-
 </div>
 
 ---
