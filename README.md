@@ -1,5 +1,3 @@
-# Portofolio Ali Sultons Palilati
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9oNGN1b2o2aDZ0bTFnajl1YnoyMmdpZzJzeWw1cmw5dWdmMDRpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkAZJAnrU/giphy.gif" width="60px">
 </p>
