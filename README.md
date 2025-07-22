@@ -34,7 +34,7 @@ class AliSultonsPalilati:
     def __init__(self):
         self.name = "Ali Sultons Palilati"
         self.role = "Data Science Student"
-        self.language_spoken = ["Indonesian", "English"]
+        self.language_spoken = ["Indonesian", "English-Intermediate"]
         
     def current_work(self):
         return [
@@ -75,7 +75,7 @@ class AliSultonsPalilati:
   <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
     <br><strong>JavaScript</strong>
-    <br>⭐⭐⭐⭐
+    <br>⭐⭐
   </td>
   <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
@@ -100,12 +100,12 @@ class AliSultonsPalilati:
 
 ### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### 🛠️ Tools & Software
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma" />
 </p>
 
 </details>
