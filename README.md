@@ -65,7 +65,7 @@ class AliSultonsPalilati:
   <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
     <br><strong>Python</strong>
-    <br>⭐⭐⭐⭐⭐
+    <br>⭐⭐⭐⭐
   </td>
   <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
