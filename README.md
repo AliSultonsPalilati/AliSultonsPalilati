@@ -102,7 +102,7 @@ class AliSultonsPalilati:
 
 ### 🛠️ Tools & Software
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma" />
 </p>
 
 </details>
