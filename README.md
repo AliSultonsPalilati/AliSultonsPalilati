@@ -30,7 +30,7 @@ class AliSultonsPalilati:
     def __init__(self):
         self.name = "Ali Sultons Palilati"
         self.role = "Data Science Student"
-        self.language_spoken = ["Indonesian", "English-Intermediate"]
+        self.language_spoken = ["Indonesian", "English-Basic"]
         
     def current_work(self):
         return [
@@ -99,9 +99,10 @@ class AliSultonsPalilati:
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
+
 ### 🛠️ Tools & Software
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,canva" />
 </p>
 
 </details>
