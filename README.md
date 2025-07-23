@@ -92,6 +92,7 @@ class AliSultonsPalilati:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="90"/>
 </p>
 
 ### 🌐 Web Development
@@ -99,12 +100,11 @@ class AliSultonsPalilati:
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-
 ### 🛠️ Tools & Software
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/>
 </p>
-
 </details>
 
 ---
