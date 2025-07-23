@@ -53,15 +53,15 @@ class AliSultonsPalilati:
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,html,css" />
 </p>
 
 <table align="center">
 <tr>
   <td align="center" width="100">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-    <br><strong>Python</strong>
-    <br>⭐⭐⭐⭐
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+    <br><strong>JavaScript</strong>
+    <br>⭐⭐
   </td>
   <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
@@ -69,9 +69,9 @@ class AliSultonsPalilati:
     <br>⭐⭐⭐
   </td>
   <td align="center" width="100">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-    <br><strong>JavaScript</strong>
-    <br>⭐⭐
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+    <br><strong>Python</strong>
+    <br>⭐⭐⭐⭐
   </td>
   <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
