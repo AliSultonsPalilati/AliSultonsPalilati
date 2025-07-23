@@ -105,6 +105,7 @@ class AliSultonsPalilati:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="50"/>
 </p>
 </details>
 
