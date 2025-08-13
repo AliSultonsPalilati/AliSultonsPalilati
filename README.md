@@ -16,8 +16,8 @@
 
 **🎓 Student** | **📊 Data Enthusiast** | **🤖 ML Explorer**
 
-- 🏫 Mahasiswa **Teknik Informatika Semester 6** di **Universitas Muhammadiyah Makassar**
-- 📈 **IPK 3.58/4.00** dengan fokus pada Data Science & Machine Learning
+- 🏫 Mahasiswa **Teknik Informatika Semester 7** di **Universitas Muhammadiyah Makassar**
+- 📈 **IPK 3.68/4.00** dengan fokus pada Data Science & Machine Learning
 - 🔥 Passionate dalam menganalisis data dan membangun model predictive
 - 🌱 Selalu belajar teknologi terbaru di bidang AI dan Data Science
 - 🎯 Goal: Menjadi **Data Scientist** yang dapat memberikan impact positif
