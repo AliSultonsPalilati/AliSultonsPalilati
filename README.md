@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Header with elegant dark gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ali%20Sultons%20Palilati&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Transforming%20Data%20into%20Insights%20%7C%20Building%20Tomorrow's%20Solutions&descAlignY=55&descSize=18&descColor=94a3b8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ali%20Sulton S%20Palilati&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Transforming%20Data%20into%20Insights%20%7C%20Building%20Tomorrow's%20Solutions&descAlignY=55&descSize=18&descColor=94a3b8"/>
 
 <br/>
 
 <!-- Animated typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Data+Science+%26+ML+Engineer+%F0%9F%A4%96;Problem+Solver+%7C+Innovator+%F0%9F%92%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Just+Keep+Learning.)](https://git.io/typing-svg)
 <br/>
 
 <!-- Social badges with dark theme -->
@@ -27,10 +27,10 @@
 ## 🚀 About Me
 
 ```typescript
-const aliSultons = {
+const Alisultn = {
     education: "Teknik Informatika - UNISMUH Makassar",
     semester: "7th (Senior Year)",
-    gpa: "3.70/4.00",
+    gpa: "3.73/4.00",
     location: "Makassar, Indonesia 🇮🇩",
     
     passionate_about: [
@@ -44,25 +44,13 @@ const aliSultons = {
         "Deep Learning Architectures",
         "Advanced NLP Techniques",
         "Cloud Computing (AWS/GCP)",
-        "MLOps Best Practices"
     ],
     
     life_motto: "Transform data into decisions, code into solutions"
 };
 ```
 
-### 🎯 Quick Facts
-- 🎓 **IPK:** 3.70/4.00 - Fokus pada Data Science & AI
-- 💡 **Passion:** Mengubah data menjadi insight yang actionable
-- 🌱 **Currently:** Exploring Deep Learning & Production ML
-- 🎖️ **Achievement:** Multiple ML projects dengan 77%+ accuracy
-- 📫 **Reach me:** [105841102222@student.unismuh.ac.id](mailto:105841102222@student.unismuh.ac.id)
-
-<br clear="right"/>
-
----
-
-## 💼 Technical Arsenal
+## 💼 Technical 
 
 <div align="center">
 
