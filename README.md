@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Header with elegant dark gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ali%20Sulton S%20Palilati&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Transforming%20Data%20into%20Insights%20%7C%20Building%20Tomorrow's%20Solutions&descAlignY=55&descSize=18&descColor=94a3b8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ali%20Sultons%20Palilati&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Transforming%20Data%20into%20Insights%20%7C%20Building%20Tomorrow's%20Solutions&descAlignY=55&descSize=18&descColor=94a3b8"/>
 
 <br/>
 
 <!-- Animated typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Just+Keep+Learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Just+Keep+Learning)](https://git.io/typing-svg)
 <br/>
 
 <!-- Social badges with dark theme -->
@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 ```typescript
-const Alisultn = {
+const aliSultons = {
     education: "Teknik Informatika - UNISMUH Makassar",
     semester: "7th (Senior Year)",
     gpa: "3.73/4.00",
@@ -50,7 +50,7 @@ const Alisultn = {
 };
 ```
 
-## 💼 Technical 
+## 💼 Technical Arsenal
 
 <div align="center">
 
