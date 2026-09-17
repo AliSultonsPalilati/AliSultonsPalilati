@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Animated typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Just+Keep+Learning;Data+Analyst+%7C+Data+Scientist+%7C+ML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=70&lines=Just+Keep+Learning;Data+Analyst+%7C+Data+Scientist+%7C+ML+Enthusiast)](https://git.io/typing-svg)
 <br/>
 
 <!-- Social badges with dark theme -->
